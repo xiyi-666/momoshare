@@ -1,4 +1,4 @@
-name: Click分享Link
+name: 墨墨背单词脚本
 on:
   push:
     branches:
